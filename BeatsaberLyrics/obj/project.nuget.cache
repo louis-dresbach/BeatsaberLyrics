@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0DJPPYGueGCqlSStudU7Uu2owYw3scDaubrVWW349eUjR3SxxT/cMxRO31wgS8KXW1jBZnlmd18goflJq2r/g==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Louis\\Documents\\Projects\\Git\\BeatsaberLyrics\\BeatsaberLyrics\\BeatsaberLyrics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Louis\\.nuget\\packages\\beatsabermoddingtools.tasks\\2.0.0-beta1\\beatsabermoddingtools.tasks.2.0.0-beta1.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.build.framework\\16.5.0\\microsoft.build.framework.16.5.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.build.tasks.core\\16.5.0\\microsoft.build.tasks.core.16.5.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.build.utilities.core\\16.5.0\\microsoft.build.utilities.core.16.5.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.visualstudio.setup.configuration.interop\\1.16.30\\microsoft.visualstudio.setup.configuration.interop.1.16.30.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.visualstudio.threading\\17.4.27\\microsoft.visualstudio.threading.17.4.27.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.visualstudio.threading.analyzers\\17.4.27\\microsoft.visualstudio.threading.analyzers.17.4.27.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.visualstudio.validation\\17.0.64\\microsoft.visualstudio.validation.17.0.64.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.diagnostics.process\\4.3.0\\system.diagnostics.process.4.3.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.resources.extensions\\4.6.0\\system.resources.extensions.4.6.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.threading.tasks.dataflow\\4.9.0\\system.threading.tasks.dataflow.4.9.0.nupkg.sha512",
+    "C:\\Users\\Louis\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

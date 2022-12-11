@@ -1,0 +1,15 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "author": "Louis Dresbach",
+  "dependsOn": {
+    "BSIPA": "^4.2.0"
+  },
+  "description": "A small plugin that allows you to see the song's lyrics while playing it.",
+  "gameVersion": "1.26.0",
+  "id": "BeatsaberLyrics",
+  "links": {
+    "project-source": "https://github.com/louis-dresbach/BeatsaberLyrics"
+  },
+  "name": "BeatsaberLyrics",
+  "version": "0.1.0"
+}
